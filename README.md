@@ -1,8 +1,8 @@
 
-# Title: Sterilo - Portable UV-C Steriliser
+# Sterilo - Portable UV-C Steriliser
 
 
-### Background & Need
+## Background & Need
 - For ensuring that the procedures used to treat COVID-19 are risk free in terms of viral/bacterial contamination, hospitals normally follow disinfection/sterilisation methods. Disinfection methods involving NaClO and alcohol wipes which are still inefficient against bacterial spore formation and with most of the viruses. Besides, the hospital staff directly come in contact with these surfaces during treatment, leading to a higher risk of COVID-19 transmission.
 
 - For sterilisation procedures in ICUs and Isolation wards, fumigation and autoclave treatment are the most commonly used methods. However, with autoclaves, there are so many high exposure contact points that dont fit into the standard size of the enclosure. Beside there is also water droplet formation after usage which requires another round of drying treatment before reuse in the hospitals. As the total duration takes around 1 hour, during an increased surge of patients especially during this COVID-19 crisis, the autoclave would exceed its batch processing capability.
@@ -13,17 +13,17 @@
 
 SARS-CoV-2,the virus causing COVID-19, survives in the environment, including on surfaces of various materials such as iron, cardboard and tissue. This explains that there is a risk that the outer surface of respirators and surgical masks used inpatient care can quickly become contaminated.
 
-## Need for reuse of Personal protective equipment
+### Need for reuse of Personal protective equipment
 
 Due to lack of enough personal protection equipment, they are beginning to be reused without any sterilization. Medical staff in teams 1 and 2 are still not provided with PPEs and have only N95 masks, like any other sanitary workers. They don’t have high viral loads like the teams 3 (who treat less severe patients) and 4 (who treat ICU patients) There is an imminent shortage of Personal Protective Equipments (PPE) even for teams 3 and 4 which includes masks, aprons, gowns and eye protection gear for the health workers in hospitals across India. Owing to this, they are facing a higher risk of virus infection, accidentally exposing other patients, their own families, and their colleagues at a time when hospitals cannot afford to have critical personnel on the sidelines. Contamination of the surface of respirators and surgical masks entails a risk for infection when reusing a mask or respirator without proper sterilization
 
-## Medical guidelines
+### Medical guidelines
 
 - Confirmed patients are arranged in the same room with bed spacing of not less than 1.2 meters (appx 4 feet).
 - Disinfection of object surfaces: Surfaces wiped with 1000 mg/L chlorine-containing disinfectant or wipes with effective chlorine; wait for 30 minutes and then rinse with clean water. Repeated 3 times a day. First cleaner (less touched) regions are disinfected, followed by contaminated areas. Each time a surface is wiped, the used wipe is replaced with a new one
 
 
-## Effectiveness of UV-C on N95 masks
+### Effectiveness of UV-C on N95 masks
 
 - Use is shown to be effective against SARS (SARS-COV) https://www.sciencedirect.com/science/article/pii/S016609340400179X
 
@@ -33,7 +33,8 @@ Due to lack of enough personal protection equipment, they are beginning to be re
 
 - https://www.lesswrong.com/posts/L8KGSDchPpNo48PCM/ubiquitous-far-ultraviolet-light-could-control-the-spread-of
 
-### Solution
+# Solution
+
 UV-C, although being a standardised technology for killing bacteria and viruses is commonly not used in medical practise owing to the risk of exposure to human beings. By ensuring the safety of users through the design, and by also leveraging the UV-C technology, we allow the adoption of this technology in medical environments. The portable UV-C steriliser is open-source, low-cost and is DIY friendly, allowing makers to deploy locally in their communities using basic tools.
 
 This product is a valuable asset to sterilise most of the contact points for patients and health care workers in hospitals which includes oximeters, contact thermometers, N95 masks, touch points such as door handles, plugs, sockets, buttons of control units such as portable X-ray machines, echo machine controls for cardiac patients etc and even surgical equipments such as scissors, shears, tongs and so on.
