@@ -84,8 +84,6 @@ Interviews conducted with the following experts during the design process
 
 The device is currently under development, a first metal prototype is being realised.
 
-![](https://i.imgur.com/Oeswzr4.jpg =350x)
-
 | Date   | Event |
 | ----------- | ---------- |
 | 23/03/2020  | Start of the project  |
