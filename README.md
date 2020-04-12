@@ -1,6 +1,3 @@
----
-# n.b. metadata now goes in the metadata.yaml file, top level beside the repo README.md
----
 
 # Title: Sterilo - Portable UV-C Steriliser
 
